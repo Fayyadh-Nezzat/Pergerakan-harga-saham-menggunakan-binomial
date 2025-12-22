@@ -1,0 +1,18 @@
+Parameter,Value,Description
+S0,2452.4750967609093,Initial price
+r,0.0575,Risk-free rate
+sigma,0.24025417558729112,Annual volatility
+N_days,130.0,Number of simulation days
+M_simulations,10000.0,Number of Monte Carlo simulations
+u_CRR,1.015011488807095,Up factor (CRR)
+d_CRR,0.9852105232574881,Down factor (CRR)
+p_CRR,0.5036969362618025,Up probability (CRR)
+u_emp,1.0116468599378337,Up factor (Empirical)
+d_emp,0.9881125043627527,Down factor (Empirical)
+p_emp,0.5055762081784386,Up probability (Empirical)
+MSE_CRR,108421.15668965259,Mean Squared Error (CRR)
+MAE_CRR,280.7052244324314,Mean Absolute Error (CRR)
+MAPE_CRR,9.751777013586471,Mean Absolute Percentage Error (CRR) %
+MSE_emp,132666.59184107746,Mean Squared Error (Empirical)
+MAE_emp,311.5414956643932,Mean Absolute Error (Empirical)
+MAPE_emp,10.82793926224153,Mean Absolute Percentage Error (Empirical) %

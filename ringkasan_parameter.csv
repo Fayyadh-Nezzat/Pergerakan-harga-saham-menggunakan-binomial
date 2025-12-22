@@ -1,0 +1,18 @@
+Parameter,Value,Description
+S0,1650.5079345703125,Harga awal
+r,0.0575,Risk-free rate
+sigma,0.5080323785594798,Volatilitas tahunan
+N,130.0,Jumlah hari simulasi
+M,10000.0,Jumlah simulasi MC
+u_CRR,1.0320084248275896,Up factor CRR
+d_CRR,0.9689843376686222,Down factor CRR
+p_CRR,0.4956333687952803,Probabilitas naik CRR
+u_emp,1.0203951265259315,Up factor Empiris
+d_emp,0.9779893060743059,Down factor Empiris
+p_emp,0.4782608695652174,Probabilitas naik Empiris
+MSE_CRR,144470.31284120152,Mean Squared Error CRR
+MAE_CRR,248.82207035089158,Mean Absolute Error CRR
+MAPE_CRR,12.031903524132074,Mean Absolute Percentage Error CRR (%)
+MSE_emp,316857.04007673904,Mean Squared Error Empiris
+MAE_emp,392.7504318555499,Mean Absolute Error Empiris
+MAPE_emp,18.775899162884688,Mean Absolute Percentage Error Empiris (%)
